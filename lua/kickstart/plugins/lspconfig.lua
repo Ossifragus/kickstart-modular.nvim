@@ -221,6 +221,8 @@ return {
         -- ts_ls = {},
         --
 
+        -- julials = {},
+
         lua_ls = {
           -- cmd = { ... },
           -- filetypes = { ... },
